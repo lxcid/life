@@ -1,4 +1,4 @@
-@lxcid' life
+<a href="http://lxcid.com">@lxcid</a>'s life
 ===============
 
 - 27/10/1986 Born in <a href="http://en.wikipedia.org/wiki/Malaysia">Malaysia</a>
