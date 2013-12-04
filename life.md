@@ -1,9 +1,9 @@
 @lxcid' life
 ===============
 
-- 27/10/1986 Born
-- 1993-1998 Qihua Primary School
-- 1999-2002 Woodlands Secondary School
+- 27/10/1986 Born in <a href="http://en.wikipedia.org/wiki/Malaysia">Malaysia</a>
+- 1993-1998 Attended <a href="http://www.qihuapri.moe.edu.sg">Qihua Primary School</a>
+- 1999-2002 Attended <a href="http://www.woodlandssec.moe.edu.sg">Woodlands Secondary School</a>
 - 06/2003-06/2006 Graduate from <a href="http://np.edu.sg">Ngee Ann Polytechnic</a> with a Diploma in Multimedia Computing
 - 06/2006-03/2011 Game Programmer at <a href="http://nexgenstudio.com/">Nexgen Studio</a>
 - 05/2008-01/2009 Software Engineer at <a href="http://cabalsoft.com/">Cabal Entertainment Software</a>
