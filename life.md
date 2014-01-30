@@ -9,5 +9,6 @@
 - 05/2008-01/2009 Software Engineer at <a href="http://cabalsoft.com/">Cabal Entertainment Software</a>
 - 01/2011-~ Co-founded <a href="http://d--buzz.com">d--buzz</a>
 - 03/2011-06/2013 iOS Application Developer at <a href="http://buuuk.com/">buUuk</a>
-- 26/08/2013-15/09/2013 <a href="https://www.coursera.org/records/nzTzdwDkSU9YnRhZ">Completed Coursera: Computational Investing: Part I</a>
-- 14/10/2013-~ <a href="https://www.coursera.org/course/ml">Attending Coursera: Machine Learning</a>
+- 26/08/2013-15/09/2013 Completed <a href="https://www.coursera.org/records/nzTzdwDkSU9YnRhZ">Coursera: Computational Investing: Part I</a>
+- 14/10/2013-18/01/2014 Completed <a href="http://lxcid.com/files/Machine%20Learning%20-%20Statement%20of%20Accomplishment.pdf">Coursera: Machine Learning</a>
+- 31/01/2014 Attending <a href="https://www.coursera.org/course/algs4partI">Coursera: Algorithms, Part I</a>
